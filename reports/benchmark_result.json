@@ -1,0 +1,12 @@
+{
+  "Thoi_gian_load_data_s": 0.9717175960540771,
+  "Thoi_gian_training_s": 1.640676498413086,
+  "Best_iteration": 0,
+  "AUC_ROC": 0.7417605055528119,
+  "Accuracy": 0.9973842210596539,
+  "F1_Score": 0.4247104247104247,
+  "Precision": 0.3416149068322981,
+  "Recall": 0.5612244897959183,
+  "Inference_latency_1row_ms": 0.48232078552246094,
+  "Inference_throughput_1000rows_s": 0.0017330646514892578
+}
